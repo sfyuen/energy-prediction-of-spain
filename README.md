@@ -7,4 +7,5 @@ The dataset: https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-ge
 The backend service can be referred to https://github.com/sfyuen/flask-Backend  
 
 ### Framework
-![image](https://github.com/sfyuen/energy-prediction-of-spain/assets/117583090/a8ba29eb-8e38-4ee1-a849-74f8c954fa98)
+![image](https://github.com/sfyuen/energy-prediction-of-spain/assets/117583090/cea6d124-3d45-4b1b-b9fa-1efc0856c7bc)
+
